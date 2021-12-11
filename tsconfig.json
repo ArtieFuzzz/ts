@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "target": "ES2019",
-    "outDir": "./build",
     "incremental": true,
     "newLine": "lf",
     "strict": true,
