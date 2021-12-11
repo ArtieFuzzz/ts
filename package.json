@@ -1,0 +1,19 @@
+{
+  "name": "@artiefuzzz/ts",
+  "version": "1.0.0",
+  "description": "Personal tsconfig for whatever sort of project",
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtieFuzzz/ts.git"
+  },
+  "author": "ArtieFuzzz#8298",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArtieFuzzz/ts/issues"
+  },
+  "homepage": "https://github.com/ArtieFuzzz/ts#readme"
+}
