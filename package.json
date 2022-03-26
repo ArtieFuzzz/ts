@@ -1,6 +1,6 @@
 {
   "name": "@artiefuzzz/ts",
-  "version": "1.2.2",
+  "version": "1.3.2",
   "description": "Personal tsconfig for whatever sort of project",
   "main": "tsconfig.json",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ArtieFuzzz/ts/issues"
   },
-  "homepage": "https://github.com/ArtieFuzzz/ts#readme"
+  "homepage": "https://github.com/ArtieFuzzz/ts#readme",
+  "dependencies": {
+    "tslib": "^2.3.1"
+  }
 }
